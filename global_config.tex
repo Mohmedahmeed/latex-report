@@ -1,80 +1,53 @@
-
 %=== File containing Global Configuration of the report ===%
-%                                                          %
-% Copyright (C) ISI - All Rights Reserved                  %
-% Proprietary                                              %
-% Written by Med Hossam <med.hossam@gmail.com>, April 2016 %
-%                                                          %
-% @author: HEDHILI Med Houssemeddine                       %
-% @linkedin: http://tn.linkedin.com/in/medhossam           %
-%==========================================================%
 
 %=========== You MUST type your information here ==========%
-% global_config.tex file is designed to configure your     %
-% cover pages (main, back and black covers)                %
-%==========================================================%
 
 %============= Config new columns type ==============%
 \newcolumntype{L}{>{\raggedright\arraybackslash}}
 \newcolumntype{R}{>{\raggedleft\arraybackslash}}
 \newcolumntype{C}{>{\centering\arraybackslash}}
-%==================================================%
 
 %========= Config the cover section ==========%
 
-\title{Titre}
+\title{Application for Management, Operation, Maintenance and Auditing of Mobile Network Sites (TelecomOps)}
 
-\author{XXXXXXXXXXXXXX}
-%%% if necessary
-% Set isBinomal to true and type second author name
-%\setboolean{isBinomal}{true}
-%\secondAuthor{Prénom NOM}
+\author{BEN MASSOUDA MOHAMED AHMED}
 
-\diplomaName{Diplôme National d'Ingénieur en Sciences Appliquées et Technologiques}
-\speciality{Filière}
-%\speciality{Génie des Télécommunications et Réseaux}
-%\speciality{Génie Informatique des Systèmes Industriels}
+\diplomaName{National Diploma of Engineer in Applied Sciences and Technologies}
+\speciality{Computer Science}
 
-%% Encadrant professionnel
-\proFramerName{Monsieur Prénom NOM}
-\proFramerSpeciality{Ingénieur Informatique}
+%% Professional supervisor (from Tunisie Telecom)
+\proFramerName{Mr. Jemai Hatem}
+\proFramerSpeciality{Network Infrastructure Engineer}
 
-%% Encadrant académique
-\academicFramerName{Monsieur ZZZZZZZ}
-\academicFramerSpeciality{Poste}
+%% Academic supervisor (TEK-UP)
+\academicFramerName{Mr. [Your Academic Supervisor Name]}
+\academicFramerSpeciality{Professor}
 
-%% Entreprise d'accueil
-\companyName{Société}
+%% Host company
+\companyName{Tunisie Telecom}
 
-%% Année universitaire
-\collegeYear{202x - 202x}
+%% Academic year
+\collegeYear{2024 - 2025}
 
 %%%%%% Signatures section %%%%%%
-
-% You can simply remove theses sentences by typing an empty string
-% \proSignSentence{}
-
-\proSignSentence{J'autorise l'étudiant à faire le dépôt de son rapport de stage en vue d'une soutenance.}
-
-\academicSignSentence{J'autorise l'étudiant à faire le dépôt de son rapport de stage en vue d'une soutenance.}
+\proSignSentence{I authorize the student to submit his final year project report for defense.}
+\academicSignSentence{I authorize the student to submit his final year project report for defense.}
 
 %%% FR
-\frenchAbstract{FR}
+\frenchAbstract{TelecomOps est une application web moderne développée pour la gestion, l'exploitation, la maintenance et l'audit des sites de réseau mobile chez Tunisie Telecom. Construite avec Next.js, TypeScript et Supabase, l'application offre une solution complète pour la supervision des infrastructures télécoms incluant la gestion des sites (2G/3G/4G/5G), le suivi des équipements, la gestion des pannes, le système d'alertes en temps réel, et la planification des interventions. Le projet implémente une architecture basée sur les rôles avec différents niveaux d'accès pour les administrateurs, ingénieurs, techniciens et managers de Tunisie Telecom, garantissant une sécurité et une efficacité opérationnelle optimales pour le leader des télécommunications en Tunisie.}
 
-\frenchAbstractKeywords{KW1, KW2}
+\frenchAbstractKeywords{Tunisie Telecom, Télécommunications, Gestion de réseau, Next.js, TypeScript, Supabase, Maintenance préventive, Surveillance temps réel, Sites GSM}
 
 %%% EN
-\englishAbstract{EN
-}
+\englishAbstract{TelecomOps is a modern web application developed for the management, operation, maintenance, and auditing of mobile network sites at Tunisie Telecom. Built with Next.js, TypeScript, and Supabase, the application provides a comprehensive solution for telecommunications infrastructure supervision including site management (2G/3G/4G/5G), equipment tracking, breakdown management, real-time alert system, and intervention planning. The project implements a role-based architecture with different access levels for administrators, engineers, technicians, and managers at Tunisie Telecom, ensuring optimal security and operational efficiency for Tunisia's leading telecommunications operator.}
 
-\englishAbstractKeywords{KW1, KW2}
+\englishAbstractKeywords{Tunisie Telecom, Telecommunications, Network Management, Next.js, TypeScript, Supabase, Preventive Maintenance, Real-time Monitoring, GSM Sites}
 
-%% if you want to get rid of the company address just set the boolean variable to false
-% PS : it's optional
-\setboolean{wantToTypeCompanyAddress}{false}
-
-\companyEmail{contact@company.com}
-\companyTel{71 111 111}
-\companyFax{71 222 222}
-\companyAddressAR{نهج بحيرة ملاران - ضفاف البحيرة - تونس}
-\companyAddressFR{Rue du Lac Malaren, Les Berges du Lac 1053 Tunis}
+%% Company address configuration
+\setboolean{wantToTypeCompanyAddress}{true}
+\companyEmail{contact@tunisietelecom.tn}
+\companyTel{98 267 997}
+\companyFax{71 XXX XXX}
+\companyAddressAR{المركز الإقليمي لاتصالات تونس عملياتي هاشد}
+\companyAddressFR{Direction Régionale Tunisie Telecom - Centre Opérationnel, Avenue Carthage, Hached}
