@@ -1,0 +1,26 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {1.}1}Introduction}{\reset@font\mtcSfont 3}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {1.}2}Host Organization Presentation}{\reset@font\mtcSfont 3}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.2.1}\else \textLR {1.2.1}\fi }Company Overview}{\reset@font\mtcSSfont 3}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.2.1}\else \textLR {1.2.2}\fi }Service Portfolio}{\reset@font\mtcSSfont 4}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.2.1}\else \textLR {1.2.3}\fi }Organizational Structure}{\reset@font\mtcSSfont 4}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.2.1}\else \textLR {1.2.4}\fi }Workforce and Market Position}{\reset@font\mtcSSfont 5}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {1.}3}Mobile Network Site Monitoring Problem Statement}{\reset@font\mtcSfont 5}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.1}\else \textLR {1.3.1}\fi }Infrastructure Complexity Challenges}{\reset@font\mtcSSfont 5}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi }Traditional Management Limitations}{\reset@font\mtcSSfont 5}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {1.}4}Existing System Analysis}{\reset@font\mtcSfont 6}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.4.1}\else \textLR {1.4.1}\fi }Current Operational Workflow}{\reset@font\mtcSSfont 6}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.4.1}\else \textLR {1.4.2}\fi }Identified Limitations}{\reset@font\mtcSSfont 6}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {1.}5}Proposed Solution}{\reset@font\mtcSfont 7}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.1}\else \textLR {1.5.1}\fi }TelecomOps Application Overview}{\reset@font\mtcSSfont 7}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.5.1}\else \textLR {1.5.2}\fi }Core Functional Capabilities}{\reset@font\mtcSSfont 7}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.5.1}\else \textLR {1.5.3}\fi }Technical Architecture}{\reset@font\mtcSSfont 7}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.5.1}\else \textLR {1.5.4}\fi }Expected Benefits and Outcomes}{\reset@font\mtcSSfont 8}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {1.}6}Project Management Methodology Study}{\reset@font\mtcSfont 8}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.6.1}\else \textLR {1.6.1}\fi }Main Agile Methodologies}{\reset@font\mtcSSfont 9}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.6.1}\else \textLR {1.6.1}\fi .1}Scrum}{\reset@font\mtcSSSfont 9}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.6.1}\else \textLR {1.6.1}\fi .2}Kanban}{\reset@font\mtcSSSfont 9}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.6.1}\else \textLR {1.6.1}\fi .3}Extreme Programming (XP)}{\reset@font\mtcSSSfont 10}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.6.1}\else \textLR {1.6.2}\fi }Chosen Method: Scrum}{\reset@font\mtcSSfont 10}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.6.1}\else \textLR {1.6.2}\fi .1}Role Definitions}{\reset@font\mtcSSSfont 10}{}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.6.1}\else \textLR {1.6.2}\fi .2}Scrum Artifacts}{\reset@font\mtcSSSfont 10}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.6.1}\else \textLR {1.6.3}\fi }Quality Assurance and Testing}{\reset@font\mtcSSfont 11}{}}

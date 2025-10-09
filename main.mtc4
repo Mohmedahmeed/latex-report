@@ -1,0 +1,24 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}1}Introduction}{\reset@font\mtcSfont 36}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}2}Sprint Backlog}{\reset@font\mtcSfont 36}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}3}Conceptual Design}{\reset@font\mtcSfont 38}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.3}\else \textLR {3.3.1}\fi }Class Diagram}{\reset@font\mtcSSfont 38}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.3}\else \textLR {3.3.2}\fi }Use Case Diagram}{\reset@font\mtcSSfont 38}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}4}Sequence Diagrams}{\reset@font\mtcSfont 40}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.4.3}\else \textLR {3.4.1}\fi }Authentication Process}{\reset@font\mtcSSfont 40}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.4.3}\else \textLR {3.4.2}\fi }Site Creation Process}{\reset@font\mtcSSfont 42}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}5}Implementation}{\reset@font\mtcSfont 43}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.3}\else \textLR {3.5.1}\fi }Authentication Interface}{\reset@font\mtcSSfont 43}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.5.3}\else \textLR {3.5.2}\fi }Dashboard Interfaces}{\reset@font\mtcSSfont 43}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.5.3}\else \textLR {3.5.3}\fi }Site Management Modals}{\reset@font\mtcSSfont 44}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.5.3}\else \textLR {3.5.4}\fi }User Profile Management}{\reset@font\mtcSSfont 46}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}6}Technical Challenges and Solutions}{\reset@font\mtcSfont 46}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.6.3}\else \textLR {3.6.1}\fi }Row Level Security Configuration}{\reset@font\mtcSSfont 46}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.6.3}\else \textLR {3.6.2}\fi }Real-time Data Synchronization}{\reset@font\mtcSSfont 46}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.6.3}\else \textLR {3.6.3}\fi }Session Management and Security}{\reset@font\mtcSSfont 46}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}7}Testing and Validation}{\reset@font\mtcSfont 47}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.7.3}\else \textLR {3.7.1}\fi }Authentication Security Testing}{\reset@font\mtcSSfont 47}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.7.3}\else \textLR {3.7.2}\fi }Role-Based Access Testing}{\reset@font\mtcSSfont 47}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.7.3}\else \textLR {3.7.3}\fi }Site Management Functional Testing}{\reset@font\mtcSSfont 47}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.7.3}\else \textLR {3.7.4}\fi }Performance Testing}{\reset@font\mtcSSfont 47}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}8}Sprint Review and Retrospective}{\reset@font\mtcSfont 47}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {3.}9}Conclusion}{\reset@font\mtcSfont 48}{}}

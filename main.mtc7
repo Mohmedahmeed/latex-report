@@ -1,0 +1,28 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}1}Introduction}{\reset@font\mtcSfont 79}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}2}Sprint Backlog}{\reset@font\mtcSfont 79}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}3}Conceptual Design}{\reset@font\mtcSfont 80}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.6}\else \textLR {6.3.1}\fi }Class Diagram}{\reset@font\mtcSSfont 80}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.6}\else \textLR {6.3.2}\fi }Use Case Diagram}{\reset@font\mtcSSfont 82}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}4}Sequence Diagrams}{\reset@font\mtcSfont 83}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.4.6}\else \textLR {6.4.1}\fi }Create Alert Process}{\reset@font\mtcSSfont 83}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.4.6}\else \textLR {6.4.2}\fi }Record Energy Consumption Process}{\reset@font\mtcSSfont 84}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}5}Implementation}{\reset@font\mtcSfont 86}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.6}\else \textLR {6.5.1}\fi }Alert Management Dashboard}{\reset@font\mtcSSfont 86}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.5.6}\else \textLR {6.5.2}\fi }Create Alert Form}{\reset@font\mtcSSfont 86}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.5.6}\else \textLR {6.5.3}\fi }Real-time Alert Notification}{\reset@font\mtcSSfont 87}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.5.6}\else \textLR {6.5.4}\fi }Alert Details View}{\reset@font\mtcSSfont 87}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {5.5.6}\else \textLR {6.5.5}\fi }Energy Consumption Dashboard}{\reset@font\mtcSSfont 88}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {6.5.6}\else \textLR {6.5.6}\fi }Record Energy Form}{\reset@font\mtcSSfont 89}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {7.5.6}\else \textLR {6.5.7}\fi }Energy Consumption Table}{\reset@font\mtcSSfont 89}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {8.5.6}\else \textLR {6.5.8}\fi }Consumption Trend Charts}{\reset@font\mtcSSfont 90}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}6}Technical Challenges and Solutions}{\reset@font\mtcSfont 90}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.6.6}\else \textLR {6.6.1}\fi }Real-time Alert Notification Architecture}{\reset@font\mtcSSfont 90}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.6.6}\else \textLR {6.6.2}\fi }Energy Cost Calculation Flexibility}{\reset@font\mtcSSfont 90}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.6.6}\else \textLR {6.6.3}\fi }Consumption Analytics Aggregation Performance}{\reset@font\mtcSSfont 91}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}7}Testing and Validation}{\reset@font\mtcSfont 91}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.7.6}\else \textLR {6.7.1}\fi }Functional Testing}{\reset@font\mtcSSfont 91}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.7.6}\else \textLR {6.7.2}\fi }Integration Testing}{\reset@font\mtcSSfont 91}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.7.6}\else \textLR {6.7.3}\fi }Performance Testing}{\reset@font\mtcSSfont 92}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.7.6}\else \textLR {6.7.4}\fi }User Acceptance Testing}{\reset@font\mtcSSfont 92}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}8}Sprint Review and Retrospective}{\reset@font\mtcSfont 92}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {6.}9}Conclusion}{\reset@font\mtcSfont 92}{}}

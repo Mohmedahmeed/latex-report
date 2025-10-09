@@ -1,0 +1,235 @@
+\babel@toc {french}{}\relax 
+\babel@toc {french}{}\relax 
+\select@language {french}
+\select@language {french}
+\select@language {french}
+\select@language {french}
+\select@language {french}
+\select@language {french}
+\select@language {french}
+\contentsline {chapter}{General Introduction}{1}{}%
+\select@language {french}
+\contentsline {chapter}{\numberline {\textLR {1}}\bgroup \beginL \latintext General Project Context\endL \egroup }{2}{}%
+\contentsline {section}{\numberline {\filterminitoc {1.}1}Introduction}{3}{}%
+\contentsline {section}{\numberline {\filterminitoc {1.}2}Host Organization Presentation}{3}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.2.1}\else \textLR {1.2.1}\fi }Company Overview}{3}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.2.1}\else \textLR {1.2.2}\fi }Service Portfolio}{4}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.2.1}\else \textLR {1.2.3}\fi }Organizational Structure}{4}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.2.1}\else \textLR {1.2.4}\fi }Workforce and Market Position}{5}{}%
+\contentsline {section}{\numberline {\filterminitoc {1.}3}Mobile Network Site Monitoring Problem Statement}{5}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.1}\else \textLR {1.3.1}\fi }Infrastructure Complexity Challenges}{5}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.1}\else \textLR {1.3.2}\fi }Traditional Management Limitations}{5}{}%
+\contentsline {section}{\numberline {\filterminitoc {1.}4}Existing System Analysis}{6}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.1}\else \textLR {1.4.1}\fi }Current Operational Workflow}{6}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.4.1}\else \textLR {1.4.2}\fi }Identified Limitations}{6}{}%
+\contentsline {section}{\numberline {\filterminitoc {1.}5}Proposed Solution}{7}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.1}\else \textLR {1.5.1}\fi }TelecomOps Application Overview}{7}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.1}\else \textLR {1.5.2}\fi }Core Functional Capabilities}{7}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.5.1}\else \textLR {1.5.3}\fi }Technical Architecture}{7}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.5.1}\else \textLR {1.5.4}\fi }Expected Benefits and Outcomes}{8}{}%
+\contentsline {section}{\numberline {\filterminitoc {1.}6}Project Management Methodology Study}{8}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.1}\else \textLR {1.6.1}\fi }Main Agile Methodologies}{9}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {1.6.1}\else \textLR {1.6.1}\fi .1}Scrum}{9}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {1.6.1}\else \textLR {1.6.1}\fi .2}Kanban}{9}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {1.6.1}\else \textLR {1.6.1}\fi .3}Extreme Programming (XP)}{10}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.1}\else \textLR {1.6.2}\fi }Chosen Method: Scrum}{10}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {2.6.1}\else \textLR {1.6.2}\fi .1}Role Definitions}{10}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {2.6.1}\else \textLR {1.6.2}\fi .2}Scrum Artifacts}{10}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.1}\else \textLR {1.6.3}\fi }Quality Assurance and Testing}{11}{}%
+\select@language {french}
+\contentsline {chapter}{\numberline {\textLR {2}}\bgroup \beginL \latintext Planning and Architecture\endL \egroup }{12}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}1}Introduction}{13}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}2}Stakeholder Identification and Analysis}{13}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.2.2}\else \textLR {2.2.1}\fi }Primary Stakeholders}{13}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.2.2}\else \textLR {2.2.2}\fi }Stakeholder Interaction Matrix}{15}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}3}Requirements Specification}{15}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.2}\else \textLR {2.3.1}\fi }Functional Requirements}{15}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.2}\else \textLR {2.3.2}\fi }Non-Functional Requirements}{16}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}4}Product Backlog and User Stories}{17}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.2}\else \textLR {2.4.1}\fi }High Priority User Stories}{17}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.4.2}\else \textLR {2.4.2}\fi }Medium Priority User Stories}{19}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.4.2}\else \textLR {2.4.3}\fi }Low Priority User Stories}{20}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}5}Sprint Planning and Development Methodology}{20}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.2}\else \textLR {2.5.1}\fi }Sprint Organization and Timeline}{21}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.2}\else \textLR {2.5.2}\fi }Sprint Objectives and Success Criteria}{21}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}6}Use Case Analysis}{24}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.2}\else \textLR {2.6.1}\fi }Global Use Case Overview}{25}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}7}System Architecture}{26}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.7.2}\else \textLR {2.7.1}\fi }Architectural Overview}{26}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {1.7.2}\else \textLR {2.7.1}\fi .1}Presentation Layer}{27}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {1.7.2}\else \textLR {2.7.1}\fi .2}Application Layer}{27}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {1.7.2}\else \textLR {2.7.1}\fi .3}Data Layer}{27}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.7.2}\else \textLR {2.7.2}\fi }Global Class diagram}{27}{}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {2.7.2}\else \textLR {2.7.2}\fi .1}Core Entities}{28}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.7.2}\else \textLR {2.7.3}\fi }Security Architecture}{29}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}8}Technology Stack Justification}{29}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.8.2}\else \textLR {2.8.1}\fi }Frontend Technologies}{30}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.8.2}\else \textLR {2.8.2}\fi }Backend Technologies}{30}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.8.2}\else \textLR {2.8.3}\fi }Development and Deployment Tools}{30}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.8.2}\else \textLR {2.8.4}\fi }Additional Libraries}{31}{}%
+\contentsline {section}{\numberline {\filterminitoc {2.}9}Deployment Architecture}{31}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.9.2}\else \textLR {2.9.1}\fi }Development Environment Configuration}{32}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.9.2}\else \textLR {2.9.2}\fi }Containerization Strategy}{32}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.9.2}\else \textLR {2.9.3}\fi }CI/CD Infrastructure}{32}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.9.2}\else \textLR {2.9.4}\fi }Continuous Integration Pipeline}{32}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {5.9.2}\else \textLR {2.9.5}\fi }Continuous Deployment Pipeline}{33}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {6.9.2}\else \textLR {2.9.6}\fi }Container Orchestration}{33}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {7.9.2}\else \textLR {2.9.7}\fi }Monitoring and Operations}{33}{}%
+\select@language {french}
+\contentsline {chapter}{\numberline {\textLR {3}}\bgroup \beginL \latintext Sprint 1: Site Management and Authentication\endL \egroup }{35}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}1}Introduction}{36}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}2}Sprint Backlog}{36}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}3}Conceptual Design}{38}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.3}\else \textLR {3.3.1}\fi }Class Diagram}{38}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.3}\else \textLR {3.3.2}\fi }Use Case Diagram}{38}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}4}Sequence Diagrams}{40}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.3}\else \textLR {3.4.1}\fi }Authentication Process}{40}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.4.3}\else \textLR {3.4.2}\fi }Site Creation Process}{42}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}5}Implementation}{43}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.3}\else \textLR {3.5.1}\fi }Authentication Interface}{43}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.3}\else \textLR {3.5.2}\fi }Dashboard Interfaces}{43}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.5.3}\else \textLR {3.5.3}\fi }Site Management Modals}{44}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.5.3}\else \textLR {3.5.4}\fi }User Profile Management}{46}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}6}Technical Challenges and Solutions}{46}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.3}\else \textLR {3.6.1}\fi }Row Level Security Configuration}{46}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.3}\else \textLR {3.6.2}\fi }Real-time Data Synchronization}{46}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.3}\else \textLR {3.6.3}\fi }Session Management and Security}{46}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}7}Testing and Validation}{47}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.7.3}\else \textLR {3.7.1}\fi }Authentication Security Testing}{47}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.7.3}\else \textLR {3.7.2}\fi }Role-Based Access Testing}{47}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.7.3}\else \textLR {3.7.3}\fi }Site Management Functional Testing}{47}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.7.3}\else \textLR {3.7.4}\fi }Performance Testing}{47}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}8}Sprint Review and Retrospective}{47}{}%
+\contentsline {section}{\numberline {\filterminitoc {3.}9}Conclusion}{48}{}%
+\select@language {french}
+\contentsline {chapter}{\numberline {\textLR {4}}\bgroup \beginL \latintext Sprint 2: Equipment Monitoring and Inventory\endL \egroup }{49}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}1}Introduction}{50}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}2}Sprint Backlog}{50}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}3}Conceptual Design}{51}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.4}\else \textLR {4.3.1}\fi }Class Diagram}{51}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.4}\else \textLR {4.3.2}\fi }Use Case Diagram}{52}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}4}Sequence Diagrams}{54}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.4}\else \textLR {4.4.1}\fi }Add Equipment Process}{54}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.4.4}\else \textLR {4.4.2}\fi }Update Equipment Status Process}{56}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}5}Implementation}{57}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.4}\else \textLR {4.5.1}\fi }Equipment Dashboard}{57}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.4}\else \textLR {4.5.2}\fi }Equipment Inventory Table}{57}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.5.4}\else \textLR {4.5.3}\fi }Equipment Management Modals}{58}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}6}Technical Challenges and Solutions}{59}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.4}\else \textLR {4.6.1}\fi }Serial Number Uniqueness Enforcement}{59}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.4}\else \textLR {4.6.2}\fi }Equipment-Site Relationship Integrity}{59}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.4}\else \textLR {4.6.3}\fi }Real-time Status Synchronization}{60}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}7}Testing and Validation}{60}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.7.4}\else \textLR {4.7.1}\fi }Equipment CRUD Operations Testing}{60}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.7.4}\else \textLR {4.7.2}\fi }Serial Number Validation Testing}{60}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.7.4}\else \textLR {4.7.3}\fi }Equipment Status Workflow Testing}{60}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.7.4}\else \textLR {4.7.4}\fi }Performance Testing}{60}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}8}Sprint Review and Retrospective}{60}{}%
+\contentsline {section}{\numberline {\filterminitoc {4.}9}Conclusion}{61}{}%
+\select@language {french}
+\contentsline {chapter}{\numberline {\textLR {5}}\bgroup \beginL \latintext Sprint 3: Breakdown Management and Intervention Planning\endL \egroup }{62}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}1}Introduction}{63}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}2}Sprint Backlog}{63}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}3}Conceptual Design}{65}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.5}\else \textLR {5.3.1}\fi }Class Diagram}{65}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.5}\else \textLR {5.3.2}\fi }Use Case Diagram}{66}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}4}Sequence Diagrams}{68}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.5}\else \textLR {5.4.1}\fi }Schedule Intervention Process}{68}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.4.5}\else \textLR {5.4.2}\fi }Report Breakdown Process}{70}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}5}Implementation}{71}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.5}\else \textLR {5.5.1}\fi }Intervention Management Dashboard}{71}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.5}\else \textLR {5.5.2}\fi }Breakdown Management Dashboard}{71}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.5.5}\else \textLR {5.5.3}\fi }Schedule Intervention Form}{72}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.5.5}\else \textLR {5.5.4}\fi }Report Breakdown Form}{73}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}6}Technical Challenges and Solutions}{73}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.5}\else \textLR {5.6.1}\fi }Technician Assignment Conflict Detection}{73}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.5}\else \textLR {5.6.2}\fi }Real-time Downtime Duration Calculation}{74}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.5}\else \textLR {5.6.3}\fi }Cascading Status Updates and Timestamp Management}{74}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}7}Testing and Validation}{74}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.7.5}\else \textLR {5.7.1}\fi }Functional Testing}{74}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.7.5}\else \textLR {5.7.2}\fi }Integration Testing}{75}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.7.5}\else \textLR {5.7.3}\fi }User Acceptance Testing}{75}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.7.5}\else \textLR {5.7.4}\fi }Performance Testing}{75}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}8}Sprint Review and Retrospective}{76}{}%
+\contentsline {section}{\numberline {\filterminitoc {5.}9}Conclusion}{76}{}%
+\select@language {french}
+\contentsline {chapter}{\numberline {\textLR {6}}\bgroup \beginL \latintext Sprint 4: Alert Management and Energy Consumption Monitoring\endL \egroup }{78}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}1}Introduction}{79}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}2}Sprint Backlog}{79}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}3}Conceptual Design}{80}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.6}\else \textLR {6.3.1}\fi }Class Diagram}{80}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.6}\else \textLR {6.3.2}\fi }Use Case Diagram}{82}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}4}Sequence Diagrams}{83}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.6}\else \textLR {6.4.1}\fi }Create Alert Process}{83}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.4.6}\else \textLR {6.4.2}\fi }Record Energy Consumption Process}{84}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}5}Implementation}{86}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.6}\else \textLR {6.5.1}\fi }Alert Management Dashboard}{86}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.6}\else \textLR {6.5.2}\fi }Create Alert Form}{86}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.5.6}\else \textLR {6.5.3}\fi }Real-time Alert Notification}{87}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.5.6}\else \textLR {6.5.4}\fi }Alert Details View}{87}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {5.5.6}\else \textLR {6.5.5}\fi }Energy Consumption Dashboard}{88}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {6.5.6}\else \textLR {6.5.6}\fi }Record Energy Form}{89}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {7.5.6}\else \textLR {6.5.7}\fi }Energy Consumption Table}{89}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {8.5.6}\else \textLR {6.5.8}\fi }Consumption Trend Charts}{90}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}6}Technical Challenges and Solutions}{90}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.6}\else \textLR {6.6.1}\fi }Real-time Alert Notification Architecture}{90}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.6}\else \textLR {6.6.2}\fi }Energy Cost Calculation Flexibility}{90}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.6}\else \textLR {6.6.3}\fi }Consumption Analytics Aggregation Performance}{91}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}7}Testing and Validation}{91}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.7.6}\else \textLR {6.7.1}\fi }Functional Testing}{91}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.7.6}\else \textLR {6.7.2}\fi }Integration Testing}{91}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.7.6}\else \textLR {6.7.3}\fi }Performance Testing}{92}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.7.6}\else \textLR {6.7.4}\fi }User Acceptance Testing}{92}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}8}Sprint Review and Retrospective}{92}{}%
+\contentsline {section}{\numberline {\filterminitoc {6.}9}Conclusion}{92}{}%
+\select@language {french}
+\contentsline {chapter}{\numberline {\textLR {7}}\bgroup \beginL \latintext Sprint 5: Reporting and Analytics Dashboard\endL \egroup }{94}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}1}Introduction}{95}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}2}Sprint Backlog}{95}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}3}Conceptual Design}{96}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.7}\else \textLR {7.3.1}\fi }Class Diagram}{97}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.7}\else \textLR {7.3.2}\fi }Use Case Diagram}{97}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}4}Sequence Diagrams}{99}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.7}\else \textLR {7.4.1}\fi }Generate Report Process}{100}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.4.7}\else \textLR {7.4.2}\fi }Export Data Process}{101}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}5}Implementation}{102}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.5.7}\else \textLR {7.5.1}\fi }Analytics Dashboard Overview}{103}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.5.7}\else \textLR {7.5.2}\fi }Interactive Charts Visualization}{103}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.5.7}\else \textLR {7.5.3}\fi }Breakdown Analysis Report}{104}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.5.7}\else \textLR {7.5.4}\fi }Date Range Filter Interface}{105}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {5.5.7}\else \textLR {7.5.5}\fi }PDF Export Progress Tracking}{105}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {6.5.7}\else \textLR {7.5.6}\fi }Generated PDF Report Sample}{106}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}6}Technical Challenges and Solutions}{106}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.6.7}\else \textLR {7.6.1}\fi }Large Dataset Performance Optimization}{106}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.6.7}\else \textLR {7.6.2}\fi }Client-Side PDF Generation Constraints}{107}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.6.7}\else \textLR {7.6.3}\fi }Real-Time Dashboard Updates}{107}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}7}Testing and Validation}{107}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.7.7}\else \textLR {7.7.1}\fi }Functional Testing}{107}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.7.7}\else \textLR {7.7.2}\fi }Integration Testing}{107}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.7.7}\else \textLR {7.7.3}\fi }Performance Testing}{107}{}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.7.7}\else \textLR {7.7.4}\fi }User Acceptance Testing}{108}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}8}Sprint Review and Retrospective}{108}{}%
+\contentsline {section}{\numberline {\filterminitoc {7.}9}Conclusion}{108}{}%
+\select@language {french}
+\contentsline {chapter}{\numberline {\textLR {8}}\bgroup \beginL \latintext Deployment and CI/CD Pipeline\endL \egroup }{110}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}1}Introduction}{111}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}2}Deployment Architecture Overview}{111}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}3}Infrastructure Configuration}{111}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}4}Jenkins Configuration and Credentials}{113}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}5}Continuous Integration Pipeline}{114}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}6}Continuous Deployment Pipeline}{115}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}7}Deployment Verification and Results}{115}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}8}Deployment Process Workflow}{116}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}9}Security Implementation}{117}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}10}Performance Optimization}{117}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}11}Monitoring and Maintenance}{118}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}12}Testing and Validation}{118}{}%
+\contentsline {section}{\numberline {\filterminitoc {8.}13}Conclusion}{118}{}%
+\select@language {french}
+\contentsline {chapter}{Conclusion générale}{120}{}%
+\select@language {french}
+\contentsline {chapter}{Bibliographie}{121}{}%
+\babel@toc {french}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {french}{}\relax 
+\babel@toc {french}{}\relax 

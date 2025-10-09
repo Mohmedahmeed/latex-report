@@ -1,0 +1,23 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}1}Introduction}{\reset@font\mtcSfont 50}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}2}Sprint Backlog}{\reset@font\mtcSfont 50}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}3}Conceptual Design}{\reset@font\mtcSfont 51}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.4}\else \textLR {4.3.1}\fi }Class Diagram}{\reset@font\mtcSSfont 51}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.4}\else \textLR {4.3.2}\fi }Use Case Diagram}{\reset@font\mtcSSfont 52}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}4}Sequence Diagrams}{\reset@font\mtcSfont 54}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.4.4}\else \textLR {4.4.1}\fi }Add Equipment Process}{\reset@font\mtcSSfont 54}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.4.4}\else \textLR {4.4.2}\fi }Update Equipment Status Process}{\reset@font\mtcSSfont 56}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}5}Implementation}{\reset@font\mtcSfont 57}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.4}\else \textLR {4.5.1}\fi }Equipment Dashboard}{\reset@font\mtcSSfont 57}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.5.4}\else \textLR {4.5.2}\fi }Equipment Inventory Table}{\reset@font\mtcSSfont 57}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.5.4}\else \textLR {4.5.3}\fi }Equipment Management Modals}{\reset@font\mtcSSfont 58}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}6}Technical Challenges and Solutions}{\reset@font\mtcSfont 59}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.6.4}\else \textLR {4.6.1}\fi }Serial Number Uniqueness Enforcement}{\reset@font\mtcSSfont 59}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.6.4}\else \textLR {4.6.2}\fi }Equipment-Site Relationship Integrity}{\reset@font\mtcSSfont 59}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.6.4}\else \textLR {4.6.3}\fi }Real-time Status Synchronization}{\reset@font\mtcSSfont 60}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}7}Testing and Validation}{\reset@font\mtcSfont 60}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.7.4}\else \textLR {4.7.1}\fi }Equipment CRUD Operations Testing}{\reset@font\mtcSSfont 60}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.7.4}\else \textLR {4.7.2}\fi }Serial Number Validation Testing}{\reset@font\mtcSSfont 60}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.7.4}\else \textLR {4.7.3}\fi }Equipment Status Workflow Testing}{\reset@font\mtcSSfont 60}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.7.4}\else \textLR {4.7.4}\fi }Performance Testing}{\reset@font\mtcSSfont 60}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}8}Sprint Review and Retrospective}{\reset@font\mtcSfont 60}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {4.}9}Conclusion}{\reset@font\mtcSfont 61}{}}

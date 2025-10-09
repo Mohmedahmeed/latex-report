@@ -1,0 +1,40 @@
+\babel@toc {french}{}\relax 
+\babel@toc {french}{}\relax 
+\addvspace {10\p@ }
+\contentsline {xchapter}{General Project Context}{3}{}%
+\contentsline {table}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }{\ignorespaces Scrum Framework Elements}}{11}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Planning and Architecture}{13}{}%
+\contentsline {table}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }{\ignorespaces Stakeholder Access Control Matrix}}{15}{}%
+\contentsline {table}{\numberline {\if@rl \I {2.2}\else \textLR {2.2}\fi }{\ignorespaces Product Backlog - High Priority Features}}{18}{}%
+\contentsline {table}{\numberline {\if@rl \I {3.2}\else \textLR {2.3}\fi }{\ignorespaces Product Backlog - Medium Priority Features}}{19}{}%
+\contentsline {table}{\numberline {\if@rl \I {4.2}\else \textLR {2.4}\fi }{\ignorespaces Product Backlog - Low Priority Features}}{20}{}%
+\contentsline {table}{\numberline {\if@rl \I {5.2}\else \textLR {2.5}\fi }{\ignorespaces Sprint Planning Overview}}{21}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 1: Site Management and Authentication}{36}{}%
+\contentsline {table}{\numberline {\if@rl \I {1.3}\else \textLR {3.1}\fi }{\ignorespaces Sprint 1 Backlog with Task Breakdown}}{37}{}%
+\contentsline {table}{\numberline {\if@rl \I {2.3}\else \textLR {3.2}\fi }{\ignorespaces Detailed Use Case Description - Create Site}}{40}{}%
+\contentsline {table}{\numberline {\if@rl \I {3.3}\else \textLR {3.3}\fi }{\ignorespaces Role-Based Access Testing Results}}{47}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 2: Equipment Monitoring and Inventory}{50}{}%
+\contentsline {table}{\numberline {\if@rl \I {1.4}\else \textLR {4.1}\fi }{\ignorespaces Sprint 2 Backlog with Task Breakdown}}{51}{}%
+\contentsline {table}{\numberline {\if@rl \I {2.4}\else \textLR {4.2}\fi }{\ignorespaces Detailed Use Case Description - Add Equipment}}{54}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 3: Breakdown Management and Intervention Planning}{63}{}%
+\contentsline {table}{\numberline {\if@rl \I {1.5}\else \textLR {5.1}\fi }{\ignorespaces Sprint 3 Backlog with Task Breakdown}}{64}{}%
+\contentsline {table}{\numberline {\if@rl \I {2.5}\else \textLR {5.2}\fi }{\ignorespaces Detailed Use Case Description - Report Breakdown}}{68}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 4: Alert Management and Energy Consumption Monitoring}{79}{}%
+\contentsline {table}{\numberline {\if@rl \I {1.6}\else \textLR {6.1}\fi }{\ignorespaces Sprint 4 Backlog with Task Breakdown}}{80}{}%
+\contentsline {table}{\numberline {\if@rl \I {2.6}\else \textLR {6.2}\fi }{\ignorespaces Detailed Use Case Description - Create Alert}}{83}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 5: Reporting and Analytics Dashboard}{95}{}%
+\contentsline {table}{\numberline {\if@rl \I {1.7}\else \textLR {7.1}\fi }{\ignorespaces Sprint 5 Backlog with Task Breakdown}}{96}{}%
+\contentsline {table}{\numberline {\if@rl \I {2.7}\else \textLR {7.2}\fi }{\ignorespaces Detailed Use Case Description - Generate Report}}{99}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Deployment and CI/CD Pipeline}{111}{}%
+\vspace {3.8mm}
+\babel@toc {french}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {french}{}\relax 
+\babel@toc {french}{}\relax 

@@ -1,0 +1,26 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}1}Introduction}{\reset@font\mtcSfont 95}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}2}Sprint Backlog}{\reset@font\mtcSfont 95}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}3}Conceptual Design}{\reset@font\mtcSfont 96}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.3.7}\else \textLR {7.3.1}\fi }Class Diagram}{\reset@font\mtcSSfont 97}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.3.7}\else \textLR {7.3.2}\fi }Use Case Diagram}{\reset@font\mtcSSfont 97}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}4}Sequence Diagrams}{\reset@font\mtcSfont 99}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.4.7}\else \textLR {7.4.1}\fi }Generate Report Process}{\reset@font\mtcSSfont 100}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.4.7}\else \textLR {7.4.2}\fi }Export Data Process}{\reset@font\mtcSSfont 101}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}5}Implementation}{\reset@font\mtcSfont 102}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.5.7}\else \textLR {7.5.1}\fi }Analytics Dashboard Overview}{\reset@font\mtcSSfont 103}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.5.7}\else \textLR {7.5.2}\fi }Interactive Charts Visualization}{\reset@font\mtcSSfont 103}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.5.7}\else \textLR {7.5.3}\fi }Breakdown Analysis Report}{\reset@font\mtcSSfont 104}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.5.7}\else \textLR {7.5.4}\fi }Date Range Filter Interface}{\reset@font\mtcSSfont 105}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {5.5.7}\else \textLR {7.5.5}\fi }PDF Export Progress Tracking}{\reset@font\mtcSSfont 105}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {6.5.7}\else \textLR {7.5.6}\fi }Generated PDF Report Sample}{\reset@font\mtcSSfont 106}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}6}Technical Challenges and Solutions}{\reset@font\mtcSfont 106}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.6.7}\else \textLR {7.6.1}\fi }Large Dataset Performance Optimization}{\reset@font\mtcSSfont 106}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.6.7}\else \textLR {7.6.2}\fi }Client-Side PDF Generation Constraints}{\reset@font\mtcSSfont 107}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.6.7}\else \textLR {7.6.3}\fi }Real-Time Dashboard Updates}{\reset@font\mtcSSfont 107}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}7}Testing and Validation}{\reset@font\mtcSfont 107}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {1.7.7}\else \textLR {7.7.1}\fi }Functional Testing}{\reset@font\mtcSSfont 107}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {2.7.7}\else \textLR {7.7.2}\fi }Integration Testing}{\reset@font\mtcSSfont 107}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {3.7.7}\else \textLR {7.7.3}\fi }Performance Testing}{\reset@font\mtcSSfont 107}{}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {\if@rl \I {4.7.7}\else \textLR {7.7.4}\fi }User Acceptance Testing}{\reset@font\mtcSSfont 108}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}8}Sprint Review and Retrospective}{\reset@font\mtcSfont 108}{}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {\filterminitoc {7.}9}Conclusion}{\reset@font\mtcSfont 108}{}}

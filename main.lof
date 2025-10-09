@@ -1,0 +1,92 @@
+\babel@toc {french}{}\relax 
+\babel@toc {french}{}\relax 
+\addvspace {10\p@ }
+\contentsline {xchapter}{General Project Context}{3}{}%
+\contentsline {figure}{\numberline {\if@rl \I {1.1}\else \textLR {1.1}\fi }{\ignorespaces Evolution of Tunisie Telecom Corporate Identity. This figure displays the progression of the company's visual branding from inception to current modern logo design, reflecting the organization's technological evolution and market positioning.}}{4}{}%
+\contentsline {figure}{\numberline {\if@rl \I {2.1}\else \textLR {1.2}\fi }{\ignorespaces Tunisie Telecom Organizational Structure. This organizational chart illustrates the hierarchical structure showing main departments and their relationships, from executive leadership to operational units including network operations, customer service, technical infrastructure, human resources, finance, and strategic planning.}}{5}{}%
+\contentsline {figure}{\numberline {\if@rl \I {3.1}\else \textLR {1.3}\fi }{\ignorespaces TelecomOps Technical Architecture Overview. Three-tier architecture with presentation layer (Next.js frontend), application layer (Supabase backend), and data layer (PostgreSQL database).}}{8}{}%
+\contentsline {figure}{\numberline {\if@rl \I {4.1}\else \textLR {1.4}\fi }{\ignorespaces Scrum Development Process. Shows flow from product backlog to sprint retrospective in iterative cycles.}}{9}{}%
+\contentsline {figure}{\numberline {\if@rl \I {5.1}\else \textLR {1.5}\fi }{\ignorespaces Kanban Process Flow. Emphasizes continuous flow and work-in-progress limits.}}{9}{}%
+\contentsline {figure}{\numberline {\if@rl \I {6.1}\else \textLR {1.6}\fi }{\ignorespaces Extreme Programming (XP) Development Process. Shows practices like TDD, CI, and frequent releases.}}{10}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Planning and Architecture}{13}{}%
+\contentsline {figure}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }{\ignorespaces TelecomOps Global Use Case Diagram}}{25}{}%
+\contentsline {figure}{\numberline {\if@rl \I {2.2}\else \textLR {2.2}\fi }{\ignorespaces TelecomOps System Architecture Overview}}{26}{}%
+\contentsline {figure}{\numberline {\if@rl \I {3.2}\else \textLR {2.3}\fi }{\ignorespaces Global Class Diagram}}{28}{}%
+\contentsline {figure}{\numberline {\if@rl \I {4.2}\else \textLR {2.4}\fi }{\ignorespaces Multi-Layer Security Architecture}}{29}{}%
+\contentsline {figure}{\numberline {\if@rl \I {5.2}\else \textLR {2.5}\fi }{\ignorespaces Global Deployment Architecture}}{31}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 1: Site Management and Authentication}{36}{}%
+\contentsline {figure}{\numberline {\if@rl \I {1.3}\else \textLR {3.1}\fi }{\ignorespaces Class Diagram - Authentication and Site Management}}{38}{}%
+\contentsline {figure}{\numberline {\if@rl \I {2.3}\else \textLR {3.2}\fi }{\ignorespaces Use Case Diagram - Sprint 1 Functionalities}}{39}{}%
+\contentsline {figure}{\numberline {\if@rl \I {3.3}\else \textLR {3.3}\fi }{\ignorespaces Sequence Diagram - Authentication Process}}{41}{}%
+\contentsline {figure}{\numberline {\if@rl \I {4.3}\else \textLR {3.4}\fi }{\ignorespaces Sequence Diagram - Create Site Process}}{42}{}%
+\contentsline {figure}{\numberline {\if@rl \I {5.3}\else \textLR {3.5}\fi }{\ignorespaces Login Interface with Supabase Authentication}}{43}{}%
+\contentsline {figure}{\numberline {\if@rl \I {6.3}\else \textLR {3.6}\fi }{\ignorespaces Main Dashboard with Role-Based Metrics}}{44}{}%
+\contentsline {figure}{\numberline {\if@rl \I {7.3}\else \textLR {3.7}\fi }{\ignorespaces Sites Management Interface with Action Controls}}{44}{}%
+\contentsline {figure}{\numberline {\if@rl \I {8.3}\else \textLR {3.8}\fi }{\ignorespaces Create Site Modal with Form Validation}}{45}{}%
+\contentsline {figure}{\numberline {\if@rl \I {9.3}\else \textLR {3.9}\fi }{\ignorespaces Edit Site Modal with Pre-populated Data}}{45}{}%
+\contentsline {figure}{\numberline {\if@rl \I {10.3}\else \textLR {3.10}\fi }{\ignorespaces Delete Site Confirmation Modal}}{45}{}%
+\contentsline {figure}{\numberline {\if@rl \I {11.3}\else \textLR {3.11}\fi }{\ignorespaces User Profile Management Interface}}{46}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 2: Equipment Monitoring and Inventory}{50}{}%
+\contentsline {figure}{\numberline {\if@rl \I {1.4}\else \textLR {4.1}\fi }{\ignorespaces Class Diagram - Equipment Monitoring and Inventory}}{52}{}%
+\contentsline {figure}{\numberline {\if@rl \I {2.4}\else \textLR {4.2}\fi }{\ignorespaces Use Case Diagram - Equipment Monitoring and Inventory}}{53}{}%
+\contentsline {figure}{\numberline {\if@rl \I {3.4}\else \textLR {4.3}\fi }{\ignorespaces Sequence Diagram - Add Equipment Process}}{55}{}%
+\contentsline {figure}{\numberline {\if@rl \I {4.4}\else \textLR {4.4}\fi }{\ignorespaces Sequence Diagram - Update Equipment Status}}{56}{}%
+\contentsline {figure}{\numberline {\if@rl \I {5.4}\else \textLR {4.5}\fi }{\ignorespaces Equipment Dashboard with Real-time Statistics}}{57}{}%
+\contentsline {figure}{\numberline {\if@rl \I {6.4}\else \textLR {4.6}\fi }{\ignorespaces Equipment Inventory Management Table}}{58}{}%
+\contentsline {figure}{\numberline {\if@rl \I {7.4}\else \textLR {4.7}\fi }{\ignorespaces Add Equipment Modal with Validation}}{58}{}%
+\contentsline {figure}{\numberline {\if@rl \I {8.4}\else \textLR {4.8}\fi }{\ignorespaces Edit Equipment Modal with Pre-populated Data}}{59}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 3: Breakdown Management and Intervention Planning}{63}{}%
+\contentsline {figure}{\numberline {\if@rl \I {1.5}\else \textLR {5.1}\fi }{\ignorespaces Class Diagram - Breakdown and Intervention Management}}{65}{}%
+\contentsline {figure}{\numberline {\if@rl \I {2.5}\else \textLR {5.2}\fi }{\ignorespaces Use Case Diagram - Sprint 3 with Role Inheritance}}{66}{}%
+\contentsline {figure}{\numberline {\if@rl \I {3.5}\else \textLR {5.3}\fi }{\ignorespaces Sequence Diagram - Schedule Intervention Process}}{69}{}%
+\contentsline {figure}{\numberline {\if@rl \I {4.5}\else \textLR {5.4}\fi }{\ignorespaces Sequence Diagram - Report Breakdown Process}}{70}{}%
+\contentsline {figure}{\numberline {\if@rl \I {5.5}\else \textLR {5.5}\fi }{\ignorespaces Intervention Management Dashboard with Statistics}}{71}{}%
+\contentsline {figure}{\numberline {\if@rl \I {6.5}\else \textLR {5.6}\fi }{\ignorespaces Breakdown Management Dashboard with Impact Metrics}}{72}{}%
+\contentsline {figure}{\numberline {\if@rl \I {7.5}\else \textLR {5.7}\fi }{\ignorespaces Schedule Intervention Form with Conflict Detection}}{72}{}%
+\contentsline {figure}{\numberline {\if@rl \I {8.5}\else \textLR {5.8}\fi }{\ignorespaces Report Breakdown Form with Impact Estimation}}{73}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 4: Alert Management and Energy Consumption Monitoring}{79}{}%
+\contentsline {figure}{\numberline {\if@rl \I {1.6}\else \textLR {6.1}\fi }{\ignorespaces Class Diagram - Alert and Energy Consumption Management}}{81}{}%
+\contentsline {figure}{\numberline {\if@rl \I {2.6}\else \textLR {6.2}\fi }{\ignorespaces Use Case Diagram - Sprint 4 with Role Inheritance}}{82}{}%
+\contentsline {figure}{\numberline {\if@rl \I {3.6}\else \textLR {6.3}\fi }{\ignorespaces Sequence Diagram - Create Alert Process}}{84}{}%
+\contentsline {figure}{\numberline {\if@rl \I {4.6}\else \textLR {6.4}\fi }{\ignorespaces Sequence Diagram - Record Energy Consumption}}{85}{}%
+\contentsline {figure}{\numberline {\if@rl \I {5.6}\else \textLR {6.5}\fi }{\ignorespaces Alert Management Dashboard with Statistics}}{86}{}%
+\contentsline {figure}{\numberline {\if@rl \I {6.6}\else \textLR {6.6}\fi }{\ignorespaces Create Alert Form with Validation}}{87}{}%
+\contentsline {figure}{\numberline {\if@rl \I {7.6}\else \textLR {6.7}\fi }{\ignorespaces Real-time Alert Notification Toast}}{87}{}%
+\contentsline {figure}{\numberline {\if@rl \I {8.6}\else \textLR {6.8}\fi }{\ignorespaces Alert Details with Status History}}{88}{}%
+\contentsline {figure}{\numberline {\if@rl \I {9.6}\else \textLR {6.9}\fi }{\ignorespaces Energy Consumption Dashboard with Charts}}{88}{}%
+\contentsline {figure}{\numberline {\if@rl \I {10.6}\else \textLR {6.10}\fi }{\ignorespaces Record Energy Consumption Form}}{89}{}%
+\contentsline {figure}{\numberline {\if@rl \I {11.6}\else \textLR {6.11}\fi }{\ignorespaces Energy Consumption Records Table}}{89}{}%
+\contentsline {figure}{\numberline {\if@rl \I {12.6}\else \textLR {6.12}\fi }{\ignorespaces Energy Consumption Trend Analysis}}{90}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Sprint 5: Reporting and Analytics Dashboard}{95}{}%
+\contentsline {figure}{\numberline {\if@rl \I {1.7}\else \textLR {7.1}\fi }{\ignorespaces Class Diagram - Reporting and Analytics System}}{97}{}%
+\contentsline {figure}{\numberline {\if@rl \I {2.7}\else \textLR {7.2}\fi }{\ignorespaces Use Case Diagram - Sprint 5 with Role Inheritance}}{98}{}%
+\contentsline {figure}{\numberline {\if@rl \I {3.7}\else \textLR {7.3}\fi }{\ignorespaces Sequence Diagram - Generate Report Process}}{100}{}%
+\contentsline {figure}{\numberline {\if@rl \I {4.7}\else \textLR {7.4}\fi }{\ignorespaces Sequence Diagram - Export Data Process}}{102}{}%
+\contentsline {figure}{\numberline {\if@rl \I {5.7}\else \textLR {7.5}\fi }{\ignorespaces Analytics Dashboard with KPIs and Intelligent Insights}}{103}{}%
+\contentsline {figure}{\numberline {\if@rl \I {6.7}\else \textLR {7.6}\fi }{\ignorespaces Interactive Charts Showing Operational Trends}}{104}{}%
+\contentsline {figure}{\numberline {\if@rl \I {7.7}\else \textLR {7.7}\fi }{\ignorespaces Breakdown Analysis with Performance Metrics}}{104}{}%
+\contentsline {figure}{\numberline {\if@rl \I {8.7}\else \textLR {7.8}\fi }{\ignorespaces Date Range Filter with Quick Presets}}{105}{}%
+\contentsline {figure}{\numberline {\if@rl \I {9.7}\else \textLR {7.9}\fi }{\ignorespaces PDF Export with Progress Tracking}}{105}{}%
+\contentsline {figure}{\numberline {\if@rl \I {10.7}\else \textLR {7.10}\fi }{\ignorespaces Generated PDF with Summary and Metrics}}{106}{}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Deployment and CI/CD Pipeline}{111}{}%
+\contentsline {figure}{\numberline {\if@rl \I {1.8}\else \textLR {8.1}\fi }{\ignorespaces CI/CD Pipeline Status - Complete Workflow}}{111}{}%
+\contentsline {figure}{\numberline {\if@rl \I {2.8}\else \textLR {8.2}\fi }{\ignorespaces Virtual Machine Configuration Settings}}{112}{}%
+\contentsline {figure}{\numberline {\if@rl \I {3.8}\else \textLR {8.3}\fi }{\ignorespaces Docker Containers - Jenkins and Application}}{112}{}%
+\contentsline {figure}{\numberline {\if@rl \I {4.8}\else \textLR {8.4}\fi }{\ignorespaces Dockerfile Configuration for Application Container}}{113}{}%
+\contentsline {figure}{\numberline {\if@rl \I {5.8}\else \textLR {8.5}\fi }{\ignorespaces Jenkins Credentials Configuration}}{113}{}%
+\contentsline {figure}{\numberline {\if@rl \I {6.8}\else \textLR {8.6}\fi }{\ignorespaces Docker Hub Repository - Application Images}}{114}{}%
+\contentsline {figure}{\numberline {\if@rl \I {7.8}\else \textLR {8.7}\fi }{\ignorespaces CI Pipeline Execution Stages}}{114}{}%
+\contentsline {figure}{\numberline {\if@rl \I {8.8}\else \textLR {8.8}\fi }{\ignorespaces CD Pipeline Execution Stages}}{115}{}%
+\contentsline {figure}{\numberline {\if@rl \I {9.8}\else \textLR {8.9}\fi }{\ignorespaces TelecomOps Application Successfully Deployed}}{116}{}%
+\vspace {3.8mm}
+\babel@toc {french}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {french}{}\relax 
+\babel@toc {french}{}\relax 
